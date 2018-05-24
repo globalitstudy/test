@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+body{
+	width: 680px;
+	margin: 0px auto;/*화면 전체중 가운데로*/
+	
+}
+header{
+	width:680px;
+}
+header div{/*로그인회원가입*/
+	font-size:12px;
+	text-align:right;
+}
+header h1{
+	font-size:50px;
+	color:orange;
+	text-shadow:5px 5px 5px red;
+	text-align:center;
+	
+}
+
+header nav{
+	bgcolor:orange;
+	float:right;
+	align:left;
+}
+
+header nav ul{
+	border:1px solid;
+	background-color:orange;
+}
+
+header nav li{
+	font-size:16px;
+	list-style-type:none;
+	margin-bottom:40px;
+
+}
+section{
+	width:680px;
+}
+
+#menutxt h1{
+	text-align:"center";
+}
+
+#menuimg img{
+	
+	height:"200px"; 
+	width:"300px";
+}
+
+footer{
+	width:680px;
+	clear:both;
+}
+footer div{
+	text-align:center;
+}
+
